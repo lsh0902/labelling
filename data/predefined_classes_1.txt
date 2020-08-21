@@ -1,0 +1,20 @@
+car
+van
+bus
+truck
+front of biker
+rear of biker
+side of biker
+head with helmet
+head with cap/hat
+head only
+person
+cyclist
+front of truckbiker
+rear of truckbiker
+side of truckbiker
+using umbrella
+using cellphone
+accidents
+forklift
+forks
